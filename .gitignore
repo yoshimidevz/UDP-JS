@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Compilação do TypeScript
+dist/
+
+# Arquivos de configuração de log
+*.log
+
+# Sistema de cache do npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema de cache do VSCode
+.vscode/
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.swp
